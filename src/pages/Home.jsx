@@ -20,7 +20,7 @@ function Home() {
         This isn’t just a website. It’s my heart laid out in code.
         For the girl who understood me, teased me, and taught me what it means to stay.
         <br /><br />
-        Welcome to our little corner of the internet.
+        Welcome to our little corner of the internet....
       </p>
     </div>
   );
